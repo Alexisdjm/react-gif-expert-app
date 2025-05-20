@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# si hay algun error, para ir al ultimo commit: git checkout -- .
